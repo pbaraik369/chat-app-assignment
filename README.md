@@ -1,4 +1,4 @@
-# Rich Text Editor Chat App
+# Chat App Assignment
 
 A chat application implemented with socket.io and has rich text editing feature implemented with [TinyMCE](https://www.tiny.cloud/).
 
