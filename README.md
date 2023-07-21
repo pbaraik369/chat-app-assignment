@@ -4,15 +4,7 @@ A chat application implemented with socket.io and has rich text editing feature 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## [Live DEMO](https://rich-editor-chat.netlify.app/)
-
 ## Installation and Usage
-
-Clone the repo
-
-```sh
-git clone https://github.com/shucoll/rich-editor-chat-app.git
-```
 
 ### For Server
 
